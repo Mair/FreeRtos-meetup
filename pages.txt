@@ -1,0 +1,5 @@
+56 - memmory alocation
+81 - task schedular
+88 - task tick
+96 - task idal
+119 - taks priority
